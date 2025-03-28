@@ -1,11 +1,10 @@
-# 🚀 Cloud Native Daily Challenges
+# 🚀 Cloud Native Daily Challenges Website(React)
 
-Welcome to **Cloud Native Daily Challenges**! 🎉  
 This is an **open-source initiative** designed to help developers, DevOps engineers, and cloud enthusiasts **practice cloud-native concepts daily**—just like **LeetCode**, but for **Kubernetes, Cloud, and DevOps**.  
 
 ---
 
-## ✨ Features
+## ✨ Website Features
 
 ✅ **Daily Cloud Native Challenges**  
 ✅ **Hands-on Kubernetes & DevOps tasks**  
@@ -101,5 +100,5 @@ For more details, read the full **[GPL v3 License](https://www.gnu.org/licenses/
 
 ---
 
-🚀 **This initiative is led by [Achanandhi](#) to bring cloud-native enthusiasts together.**  
+🚀 **This initiative is led by [Achanandhi](https://github.com/Achanandhi-M) to bring cloud-native enthusiasts together.**  
 ⭐ **Star this repo** if you find it useful! 🎉
