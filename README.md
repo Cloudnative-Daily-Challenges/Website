@@ -79,7 +79,7 @@ Then, go to GitHub and open a **Pull Request**. 🎉
 
 ## 🔥 **Community & Support**  
 
-💬 **Join the Discussion:** [Slack Channel]("https://join.slack.com/t/leetcodeforcl-oag1351/shared_invite/zt-32h2bqz7r-QTpx6YgKGTHDTJnOqHImIA")  
+💬 **Join the Discussion:** [Slack Channel](https://join.slack.com/t/leetcodeforcl-oag1351/shared_invite/zt-32h2bqz7r-QTpx6YgKGTHDTJnOqHImIA)  
 🐛 **Found a bug?** [Open an Issue](https://github.com/Cloudnative-Daily-Challenges/Website/issues)  
 
 
